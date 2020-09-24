@@ -3,3 +3,4 @@ In this repository, whatever I learned about data structure and algorithm is upl
 
 
 **Content will be uploaded soon**
+Uploaded: Singly Linked List
