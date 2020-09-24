@@ -2,5 +2,4 @@
 In this repository, whatever I learned about data structure and algorithm is uploaded.
 
 
-**Content will be uploaded soon**
-Uploaded: Singly Linked List
+**Working on it, Deadline: 26 September 2020 (MIDNIGHT)
