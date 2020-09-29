@@ -8,4 +8,4 @@ In this repository, whatever I learned about data structure and algorithm is upl
 4. Stack Using Dynamic Array & Singly Linked List 
 
 
-**Working on it, Deadline: End of September 2020**
+**Rest of files will be uploaded soon with notes, Deadline: End of September 2020**
